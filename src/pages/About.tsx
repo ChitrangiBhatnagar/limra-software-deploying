@@ -294,7 +294,7 @@ const About = () => {
                 Try AI Hunter
               </a>
             </Button>
-            <Button size="xl" variant="outline" className="border-white text-white hover:bg-white hover:text-primary" asChild>
+            <Button size="xl" variant="demo" asChild>
               <a 
                 href="https://salescentri.com/company/careers" 
                 target="_blank" 

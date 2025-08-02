@@ -328,7 +328,7 @@ const Contact = () => {
                 Start Free Trial
               </a>
             </Button>
-            <Button size="xl" variant="outline" className="border-white text-white hover:bg-white hover:text-primary" asChild>
+            <Button size="xl" variant="demo" asChild>
               <a 
                 href="https://salescentri.com/get-started/book-demo" 
                 target="_blank" 
